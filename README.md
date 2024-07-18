@@ -2,11 +2,15 @@
 
 [Learn Machine Learning in 21 Days](https://www.udemy.com/course/learn-machine-learning-in-21-days/)
 
+
+## Start virtual env on linux
+
+```python3 -m ml21d-venv```
+
 ## Dependencies
 
-- wheel
-- scipy
-- numpy
-- pandas
-- matplotlib
-- ipykernel
+```pip install -r requirements.txt```
+
+## Freeze requirements
+
+```pip freeze > requirements.txt```
