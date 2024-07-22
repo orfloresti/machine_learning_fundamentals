@@ -5,7 +5,7 @@
 
 ## Start virtual env on linux
 
-```python3 -m ml21d-venv```
+```python3 -m venv ml21d-venv```
 
 ## Dependencies
 
